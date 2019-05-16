@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6d4a4564-a28b-4384-bb07-679fdbee0071" solutionId="6d4a4564-a28b-4384-bb07-679fdbee0071" resetWebServer="false" sharePointProductVersion="16.0" name="SharePointBreadcrumbNavigation" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8377b0c8-5f47-4cac-a1ae-358ec323172a" />
+  </features>
+</package>
