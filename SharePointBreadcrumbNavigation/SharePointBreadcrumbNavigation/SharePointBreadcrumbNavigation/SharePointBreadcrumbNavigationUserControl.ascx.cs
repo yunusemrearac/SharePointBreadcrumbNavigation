@@ -23,8 +23,9 @@ namespace SharePointBreadcrumbNavigation.SharePointBreadcrumbNavigation
 
                 if (provider != null)
                 {
-                    provider.IncludePages = PortalSiteMapProvider.IncludeOption.Always;
-                    ContentMap.Provider = provider;
+					provider.IncludePages = PortalSiteMapProvider.IncludeOption.Always;
+					provider.IncludeSubSites = PortalSiteMapProvider.IncludeOption.Always;
+					ContentMap.Provider = provider;
                 }
                 else
                 {
